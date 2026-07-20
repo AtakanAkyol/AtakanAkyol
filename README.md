@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atakan Arda Akyol
 
-### Java, Swift Developer
+### Java, Web Developer
 
 - 🌱 I'm currently learning **Swift and Kotlin**
 
